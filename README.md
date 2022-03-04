@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-Eu sou Raphael F. Domingues
-
-Futuro Programador!
+Estou em fase de transição de profissão para a área de programação!
 
 Estudante de Ciências da Computação
 
-Estudando Cursos extracurrículares de linguagens de programação, marcação e estilo!
+Meu foco atualmente está em Front End, fazendo cursos extracurrículares 
+de HTML5, CSS3 e JavaScript.
 
-Meu foco atualmente está em Fullstack
+
 
 <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaeldomingues&show_icons=true&theme=tokyonight"/>
