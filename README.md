@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-Estou em fase de transição de profissão para a área de programação!
+Estou em fase de transição de carreira para a área de programação!
 
 Estudante de Ciências da Computação
 
-Meu foco atualmente está em Front End, fazendo cursos extracurrículares 
-de HTML5, CSS3 e JavaScript.
-
-
+Meu foco atualmente está em fazer cursos extracurrículares como Fullstack e MultiCloud.
 
 <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaeldomingues&show_icons=true&theme=tokyonight"/>
