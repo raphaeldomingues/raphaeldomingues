@@ -4,7 +4,7 @@ Estou em fase de transição de carreira para a área de programação!
 
 Estudante de Ciências da Computação
 
-Meu foco atualmente está em fazer cursos extracurrículares como Fullstack e MultiCloud,DevOps
+Meu foco atualmente está em fazer cursos extracurrículares como Fullstack e MultiCloud, DevOps
 
 <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaeldomingues&show_icons=true&theme=tokyonight"/>
